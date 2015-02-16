@@ -1,6 +1,7 @@
 # reCAPTCHA-JSF
 ## Add the new Google reCaptcha v2 to you JSF projects
 
+[![Build Status](https://travis-ci.org/amallia/reCAPTCHA-jsf.svg)](https://travis-ci.org/amallia/reCAPTCHA-jsf)
 
 1. Add the namespace: 
 ```xml
